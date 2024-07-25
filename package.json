@@ -18,7 +18,7 @@
     "@astrojs/tailwind": "^3.1.2",
     "@astrojs/vue": "^2.2.1",
     "@tabler/icons-vue": "^2.21.0",
-    "astro": "^2.4.1",
+    "astro": "^4.12.2",
     "daisyui": "^2.51.6",
     "tailwindcss": "^3.0.24",
     "vue": "^3.3.4"
